@@ -1,5 +1,5 @@
 import React from 'react'
-import Navigation from './navigation'
+import Navigation from './Navigation'
 import Footer from './Footer'
 
 const Layout = ({ children }) => {
