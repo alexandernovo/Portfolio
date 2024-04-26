@@ -3,6 +3,7 @@ import Layout from '../components/Layout'
 import Banner from '../components/Banner'
 import About from '../components/About'
 import Timeline from '../components/Timeline'
+import Projects from '../components/Projects'
 
 const Home = () => {
     return (
@@ -10,6 +11,7 @@ const Home = () => {
             <Banner />
             <About />
             <Timeline />
+            <Projects />
         </Layout>
     )
 }
