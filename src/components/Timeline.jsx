@@ -134,7 +134,7 @@ const Timeline = () => {
                 >
                     <h3 className="vertical-timeline-element-title">E-Commerce Website (React with Vite)</h3>
                     <p>
-                        Developed an advanced E-commerce platform using ASP.NET, complemented by a dynamic frontend built with React. This platform offers a sophisticated online shopping experience, showcasing a wide range of products with intuitive navigation, seamless user authentication, and a secure checkout process.
+                        Crafted an advanced Ecommerce platform using Laravel 10, accompanied by a dynamic frontend developed with React. This platform provides a cutting-edge online shopping experience, presenting a vast array of products through intuitive navigation, seamless user authentication, and a secure checkout process.
                     </p>
                 </VerticalTimelineElement>
                 <VerticalTimelineElement
@@ -147,7 +147,7 @@ const Timeline = () => {
                 >
                     <h3 className="vertical-timeline-element-title">ASP.Net</h3>
                     <p>
-                        Crafted an advanced Ecommerce platform using Laravel 10, accompanied by a dynamic frontend developed with React. This platform provides a cutting-edge online shopping experience, presenting a vast array of products through intuitive navigation, seamless user authentication, and a secure checkout process.
+                        Developed an advanced E-commerce platform using ASP.NET, complemented by a dynamic frontend built with React. This platform offers a sophisticated online shopping experience, showcasing a wide range of products with intuitive navigation, seamless user authentication, and a secure checkout process.
                     </p>
                 </VerticalTimelineElement>
 
