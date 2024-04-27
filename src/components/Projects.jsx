@@ -6,7 +6,7 @@ import tms from '../assets/images/project_tms.png'
 
 const Projects = () => {
     return (
-        <div className='mt-4'>
+        <div className='mt-4' id='project'>
             <h1 className='text-center text-2xl font-bold text-teal-500 tracking-widest my-3'>Projects</h1>
 
             <div className='flex gap-3 justify-center'>
